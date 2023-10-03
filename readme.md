@@ -1,3 +1,3 @@
 # Python Information
 
-All about python.
+All about python!
